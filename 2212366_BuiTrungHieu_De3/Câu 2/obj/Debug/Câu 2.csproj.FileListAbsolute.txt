@@ -1,0 +1,10 @@
+Z:\2212366_BuiTrungHieu_De3\Câu 2\bin\Debug\Câu 2.exe.config
+Z:\2212366_BuiTrungHieu_De3\Câu 2\bin\Debug\Câu 2.exe
+Z:\2212366_BuiTrungHieu_De3\Câu 2\bin\Debug\Câu 2.pdb
+Z:\2212366_BuiTrungHieu_De3\Câu 2\obj\Debug\Câu 2.csproj.AssemblyReference.cache
+Z:\2212366_BuiTrungHieu_De3\Câu 2\obj\Debug\Câu_2.Form1.resources
+Z:\2212366_BuiTrungHieu_De3\Câu 2\obj\Debug\Câu_2.Properties.Resources.resources
+Z:\2212366_BuiTrungHieu_De3\Câu 2\obj\Debug\Câu 2.csproj.GenerateResource.cache
+Z:\2212366_BuiTrungHieu_De3\Câu 2\obj\Debug\Câu 2.csproj.CoreCompileInputs.cache
+Z:\2212366_BuiTrungHieu_De3\Câu 2\obj\Debug\Câu 2.exe
+Z:\2212366_BuiTrungHieu_De3\Câu 2\obj\Debug\Câu 2.pdb
